@@ -1,0 +1,2 @@
+# vSphereDeveloper
+vSphere hacks.
